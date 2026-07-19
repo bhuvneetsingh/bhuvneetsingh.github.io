@@ -187,11 +187,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : 
+  app_id                 : 
+  publisher              : 
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
